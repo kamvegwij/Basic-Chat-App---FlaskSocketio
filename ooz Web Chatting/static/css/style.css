@@ -1,0 +1,57 @@
+.chat {
+    text-align: center;
+    background-color: rgb(12, 2, 27);
+    color: rgb(172, 200, 225);
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    border: 1.2px dashed rgb(60, 5, 5);
+    border-radius: 50px;
+}
+
+.chat #sendbtn{
+    background-color: rgb(191, 9, 9);
+    width: 80px;
+}
+
+.chat #message{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    height: 30px;
+    width: 250px;
+    background-color: rgb(232, 213, 213);
+}
+
+.chat-bod {
+    background-color: rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+    background-color: rgb(9, 1, 16);
+}
+.header h1{
+    text-shadow: 25px;
+    color: rgb(183, 5, 5);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-bod {
+    background-color: rgb(46, 1, 1);
+    text-align: center;
+}
+
+.login-bod #loginbtn{
+    background-color: black;
+    color: azure;
+    width: 100px;
+    height: 50px;
+}
+
+.items {
+    margin-top: 300px;
+    margin-bottom: 100px;
+}
